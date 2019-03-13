@@ -1,0 +1,3 @@
+[submodule "src/main/badvpn"]
+	path = src/main/badvpn
+	url = https://github.com/digitalsoftwaresolutions/Tun2Socks-Android
